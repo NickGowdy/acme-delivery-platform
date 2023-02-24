@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Output of go binaries
+acme-delivery-platform
+
 # Test binary, built with `go test -c`
 *.test
 
